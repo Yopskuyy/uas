@@ -1,0 +1,258 @@
+body{
+    background-color: #FFDD55;
+}
+.textawal{
+  font-weight: bold;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 250px; /* Jarak dari atas */
+  left: -300px;
+}
+.text1{
+  position: relative; /* atau absolute, fixed, atau sticky */
+    top: 250px; /* Jarak dari atas */
+    left: -300px;
+ color: #474A57;
+}
+.profile{
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 10px; /* Jarak dari atas */
+  left: 200px;
+}
+.icons{
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: -230px; /* Jarak dari atas */
+  left: 370px;
+}
+.iconfb{
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 10px; /* Jarak dari atas */
+}
+.icontwt{
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 20px; /* Jarak dari atas */
+}
+.iconyt{
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 30px; /* Jarak dari atas */
+}
+
+.card-body{
+  background-color:#106EE8;
+  text-align: left;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 50px; /* Jarak dari atas */
+  left: 200px; /* Jarak dari kiri */
+  width: 100%;
+  height: 350px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+.card-title{
+  text-align: left;
+  font-weight: bold;
+  font-size: 26px;
+  text-shadow: black;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: -250px; /* Jarak dari atas */
+  padding-left: 250px;
+  color: white;
+}
+.card-text{
+  text-align: left;
+  font-size: 20px;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: -240px; /* Jarak dari atas */
+  padding-left: 250px;
+  color: #FFDD55;
+}
+  .btn {
+    background-color: black; /* Warna latar belakang */
+    border-color: aqua; /* Hilangkan border */
+    border-width: 5px;
+    color: white; /* Warna teks */
+    padding: 10px 20px; /* Padding */
+    text-align: center; /* Rata tengah teks */
+    text-decoration: none; /* Hilangkan garis bawah teks */
+    display: inline-block; /* Membuat tombol inline */
+    font-size: 13px; /* Ukuran font */
+    margin: 1px 2px; /* Margin */
+    width: 110px ;
+    height: 40px;
+    cursor: pointer; /* Cursor menjadi pointer saat hover */
+    border-radius: 4px; /* Sudut membulat */
+    position: relative; /* atau absolute, fixed, atau sticky */
+    top: 250px; /* Jarak dari atas */
+    left: 150px;
+  }
+  .btn1 {
+    background-color: black; /* Warna latar belakang */
+    border-color: aqua; /* Hilangkan border */
+    border-width: 5px;
+    color: white; /* Warna teks */
+    padding: 10px 20px; /* Padding */
+    text-align: center; /* Rata tengah teks */
+    text-decoration: none; /* Hilangkan garis bawah teks */
+    display: inline-block; /* Membuat tombol inline */
+    font-size: 13px; /* Ukuran font */
+    margin: 1px 2px; /* Margin */
+    width: 100px ;
+    height: 40px;
+    cursor: pointer; /* Cursor menjadi pointer saat hover */
+    border-radius: 4px; /* Sudut membulat */
+    text-align: center;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: -200px; /* Jarak dari atas */
+  left: 250px;
+  padding-left: 20px;
+  }
+
+.texttengah{
+    font-weight: bold;
+    font-size: 36px;
+    position: relative; /* atau absolute, fixed, atau sticky */
+    top: -200px; /* Jarak dari atas */
+    text-align: center;
+  }
+.texttengah1{
+  position: relative; /* atau absolute, fixed, atau sticky */
+    top: -200px; /* Jarak dari atas */
+    text-align: center;
+    color: white;
+}
+.bg2{
+    background-color: #EB7711;
+    padding: 300px;
+    position: relative;
+    top: 550px;
+    width: 100%;
+}  
+.card-body1{
+  background-color:#A259FF;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 100px; /* Jarak dari atas */
+  left: 250px; /* Jarak dari kiri */
+  width: 20%;
+  height: 350px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+.card-body2 {
+  background-color:#A259FF;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: -250px; /* Jarak dari atas */
+  left: 650px; /* Jarak dari kiri */
+  width: 20%;
+  height: 350px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+.card-title1{
+  font-weight: bold;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 20px; /* Jarak dari atas */
+  text-align: center;
+  color: white;
+}
+.card-title2{
+  font-weight: bold;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 20px; /* Jarak dari atas */
+  text-align: center;
+  color: white;
+}
+.card-text1{
+  color: white;
+  text-align: left;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 15px; /* Jarak dari atas */
+  left: 2px;
+  right: 5px;
+  padding-left: 10px;
+
+}
+.card-text2{
+  color: white;
+  text-align: left;
+  position: relative; /* atau absolute, fixed, atau sticky */
+  top: 15px; /* Jarak dari atas */
+  left: 2px;
+  padding-right: 5px;
+
+}
+.btn2 {
+  background-color: black; /* Warna latar belakang */
+  border-color: aqua; /* Hilangkan border */
+  border-width: 5px;
+  color: white; /* Warna teks */
+  padding: 10px 20px; /* Padding */
+  text-align: center; /* Rata tengah teks */
+  text-decoration: none; /* Hilangkan garis bawah teks */
+  display: inline-block; /* Membuat tombol inline */
+  font-size: 11px; /* Ukuran font */
+  margin: 1px 2px; /* Margin */
+  width: 120px ;
+  height: 50px;
+  cursor: pointer; /* Cursor menjadi pointer saat hover */
+  border-radius: 4px; /* Sudut membulat */
+  text-align: center;
+position: relative; /* atau absolute, fixed, atau sticky */
+top: 140px; /* Jarak dari atas */
+left: 55px;
+padding-left: 20px;
+}
+.btn3 {
+  background-color: black; /* Warna latar belakang */
+  border-color: aqua; /* Hilangkan border */
+  border-width: 5px;
+  color: white; /* Warna teks */
+  padding: 10px 20px; /* Padding */
+  text-align: center; /* Rata tengah teks */
+  text-decoration: none; /* Hilangkan garis bawah teks */
+  display: inline-block; /* Membuat tombol inline */
+  font-size: 11px; /* Ukuran font */
+  margin: 1px 2px; /* Margin */
+  width: 120px ;
+  height: 50px;
+  cursor: pointer; /* Cursor menjadi pointer saat hover */
+  border-radius: 4px; /* Sudut membulat */
+  text-align: center;
+position: relative; /* atau absolute, fixed, atau sticky */
+top: 140px; /* Jarak dari atas */
+left: 55px;
+padding-left: 20px;
+}
+
+.bg3{
+  background-color: #0ACF83;
+  padding: 20%;
+}
+
+.contact{
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+  bottom: 100px;
+}
+
+.contact-name{
+  position: relative;
+  bottom: 30px;
+}
+
+.contact-text{
+  font-weight: normal;
+  font-style: italic;
+  font-size: 30px;
+  position: relative;
+  top: 50px;
+}
+.icon1{
+  position: relative;
+  top: 100px;
+}
+@media screen and (max-width: 476px) {
+  .profile{
+    position: relative;
+    width: 50%;
+  }
+}
